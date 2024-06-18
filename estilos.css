@@ -1,0 +1,62 @@
+.CorFundo{
+    background-color: #722f37;
+    margin: 0px;
+}
+.texto{
+     width: 100%;
+     height: 80px; 
+     background-color: #330000;
+}
+.botoes{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+    margin-top: 100px
+}
+.barra{
+    text-align: center;
+    color: white;
+    margin-top: 0px;    
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-size:  20px;
+}
+.botao{
+    width: 200px;
+    height: 100px;
+    background-color: #330000;
+}
+.quadrados{
+    margin: 50px;
+    width: 50%;
+    height: 400px;
+    background-color: #330000;
+    display: flex;
+    unicode-bidi: isolate;
+    flex-direction: column;
+
+}
+.tamanho{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.quadrados2{
+    width: 100%;
+     display: flex;
+     justify-content: center;
+}
+.fotos{
+    display: flex;
+    justify-content: space-around;
+}
+.borda{
+    margin: 50px;
+    width: 30%;
+    height: 600px;
+    display: flex;
+    background-color: #330000;
+    justify-content: center;
+}
